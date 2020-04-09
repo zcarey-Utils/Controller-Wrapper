@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ControllerWrapper</id>
+    <version>1.0.1</version>
+    <title>$title$</title>
+    <authors>Zachary Carey</authors>
+    <owners>Zachary Carey</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wraps XInput controller inputs.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>XInput Controller Wrapper Input</tags>
+  </metadata>
+</package>
