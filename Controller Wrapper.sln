@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller Wrapper", "Controller Wrapper\Controller Wrapper.csproj", "{239EF6BC-B5F0-471F-BC5F-FCC69BEBE640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerTest", "ControllerTest\ControllerTest.csproj", "{9499FFEC-A0F0-44F9-938C-1038A8C3F0DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{239EF6BC-B5F0-471F-BC5F-FCC69BEBE640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239EF6BC-B5F0-471F-BC5F-FCC69BEBE640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239EF6BC-B5F0-471F-BC5F-FCC69BEBE640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9499FFEC-A0F0-44F9-938C-1038A8C3F0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9499FFEC-A0F0-44F9-938C-1038A8C3F0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9499FFEC-A0F0-44F9-938C-1038A8C3F0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9499FFEC-A0F0-44F9-938C-1038A8C3F0DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
