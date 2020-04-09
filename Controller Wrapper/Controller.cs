@@ -11,6 +11,8 @@ namespace Controller_Wrapper {
 		private SharpDX.XInput.Controller controller;
 		private Gamepad gamepad;
 
+		public PlayerIndex PlayerNumber => (PlayerIndex)controller.UserIndex;
+
 		public bool Connected { get; private set; } = false;
 		public ushort Deadzone { get; set; } = 2500;
 
